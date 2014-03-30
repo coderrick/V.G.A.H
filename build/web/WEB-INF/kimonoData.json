@@ -1,0 +1,104 @@
+{
+  "collection1": [
+    {
+      "ranking": {
+        "href": "http://siteanalytics.compete.com/ign.com",
+        "text": "484 - eBizMBA Rank | 17,500,000 - Estimated Unique Monthly Visitors | 357 - Compete Rank | 783 - Quantcast Rank | 313 - Alexa Rank.Most Popular Video Game Websites | Updated 1/15/2014 | eBizMBA"
+      },
+      "website": {
+        "href": "http://www.ign.com",
+        "text": "IGN"
+      }
+    },
+    {
+      "ranking": {
+        "href": "http://siteanalytics.compete.com/gamefaqs.com",
+        "text": "843 - eBizMBA Rank | 8,500,000 - Estimated Unique Monthly Visitors | 813 - Compete Rank | 978 - Quantcast Rank | 737 - Alexa Rank.Most Popular Video Game Websites | Updated 1/15/2014 | eBizMBA"
+      },
+      "website": {
+        "href": "http://www.gamefaqs.com",
+        "text": "GameFAQs"
+      }
+    },
+    {
+      "ranking": {
+        "href": "http://siteanalytics.compete.com/gamespot.com",
+        "text": "1,010 - eBizMBA Rank | 7,900,000 - Estimated Unique Monthly Visitors | 1,193 - Compete Rank | *NA* - Quantcast Rank | 827 - Alexa Rank.Most Popular Video Game Websites | Updated 1/15/2014 | eBizMBA"
+      },
+      "website": {
+        "href": "http://www.gamespot.com",
+        "text": "GameSpot"
+      }
+    },
+    {
+      "ranking": {
+        "href": "http://siteanalytics.compete.com/kotaku.com",
+        "text": "1,486 - eBizMBA Rank | 5,700,000 - Estimated Unique Monthly Visitors | 2,732 - Compete Rank | 283 - Quantcast Rank | 1,444 - Alexa Rank.Most Popular Video Game Websites | Updated 1/15/2014 | eBizMBA"
+      },
+      "website": {
+        "href": "http://www.kotaku.com",
+        "text": "Kotaku"
+      }
+    },
+    {
+      "ranking": {
+        "href": "http://siteanalytics.compete.com/neoseeker.com",
+        "text": "3,736 - eBizMBA Rank | 2,900,000 - Estimated Unique Monthly Visitors | 2,342 - Compete Rank | 3,561 - Quantcast Rank | 5,305 - Alexa Rank.Most Popular Video Game Websites | Updated 1/15/2014 | eBizMBA"
+      },
+      "website": {
+        "href": "http://www.neoseeker.com",
+        "text": "NeoSeeker"
+      }
+    },
+    {
+      "ranking": {
+        "href": "http://siteanalytics.compete.com/gamefront.com",
+        "text": "3,738 - eBizMBA Rank | 2,800,000 - Estimated Unique Monthly Visitors | 4,183 - Compete Rank | 1,054 - Quantcast Rank | 5,978 - Alexa Rank.Most Popular Video Game Websites | Updated 1/15/2014 | eBizMBA"
+      },
+      "website": {
+        "href": "http://www.gamefront.com",
+        "text": "GameFront"
+      }
+    },
+    {
+      "ranking": {
+        "href": "http://siteanalytics.compete.com/cheatcc.com",
+        "text": "3,888 - eBizMBA Rank | 2,700,000 - Estimated Unique Monthly Visitors | 1,183 - Compete Rank | 3,238 - Quantcast Rank | 7,244 - Alexa Rank.Most Popular Video Game Websites | Updated 1/15/2014 | eBizMBA"
+      },
+      "website": {
+        "href": "http://www.cheatcc.com",
+        "text": "CheatCC"
+      }
+    },
+    {
+      "ranking": {
+        "href": "http://siteanalytics.compete.com/joystiq.com",
+        "text": "4,051 - eBizMBA Rank | 2,400,000 - Estimated Unique Monthly Visitors | 5,108 - Compete Rank | NA - Quantcast Rank | 2,994 - Alexa Rank.Most Popular Video Game Websites | Updated 1/15/2014 | eBizMBA"
+      },
+      "website": {
+        "href": "http://www.joystiq.com",
+        "text": "Joystiq"
+      }
+    },
+    {
+      "ranking": {
+        "href": "http://siteanalytics.compete.com/n4g.com",
+        "text": "4,134 - eBizMBA Rank | 2,300,000 - Estimated Unique Monthly Visitors | 5,439 - Compete Rank | 990 - Quantcast Rank | 2,491 - Alexa Rank.Most Popular Video Game Websites | Updated 1/15/2014 | eBizMBA"
+      },
+      "website": {
+        "href": "http://www.n4g.com",
+        "text": "N4G"
+      }
+    },
+    {
+      "ranking": {
+        "href": "http://siteanalytics.compete.com/gametrailers.com",
+        "text": "4,187 - eBizMBA Rank | 2,250,000 - Estimated Unique Monthly Visitors | 6,807\n- Compete Rank | 1,113 - Quantcast Rank | 4,642 - Alexa Rank.Most Popular Video Game Websites | Updated 1/15/2014 | eBizMBA"
+      },
+      "website": {
+        "href": "http://www.gametrailers.com",
+        "text": "GameTrailers"
+      }
+    }
+  ]
+}
