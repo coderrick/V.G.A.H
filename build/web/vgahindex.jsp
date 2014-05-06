@@ -16,6 +16,7 @@
         <link href='http://fonts.googleapis.com/css?family=Gruppo' rel='stylesheet' type='text/css'>
         <link type="text/css" rel="stylesheet" href="/stylesheets/main.css" />
         <link type="text/css" rel="stylesheet" href="/stylesheets/slider.css" />
+        <title>V.G.A.H</title>
     </head>
 
     <body>
@@ -42,7 +43,7 @@
                 <li class="hb-children"><span data-hover="a">j</span></li>
             </ul>
 
-            <h1 class="white">Incredibly Basic Slider</h1>
+            <h1 class="white">Slider</h1>
             <div id="slider">
                 <a href="#" class="control_next">></a>
                 <a href="#" class="control_prev"><</a>
@@ -61,12 +62,12 @@
         </header>   
 
         <nav>
-            <a href="vjsoup.jsp">Link1</a>
-            <a href="">Link2</a>
+            <a href="vgahindex.jsp">Home</a>
+            <a href="vjsoup.jsp">Grid</a>
             <a href="">Link3</a>
             <a href="">Link4</a>
         </nav>
-
+<!--end of navigation header-->
         <h1>About V.G.A.H</h1>
         <p> 
             Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum 
