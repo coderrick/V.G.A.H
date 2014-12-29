@@ -10,7 +10,7 @@ header{
 }
 header, section, footer, aside, nav, article, div, figure
 { 
-    display: block;/*In order to make semantic layout work*/
+    display: block;
 }
 #headerblocks-ul {
     list-style: none;
