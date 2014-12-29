@@ -1,29 +1,12 @@
 body {
-    /*font-family: Verdana, Helvetica, sans-serif;*/
-    /*background-color: #FFFFCC;*/
     background-color: white;
-    margin: 0px;
-    /*text-shadow: 0 0 1px rgba(255,255,255,0.3);*/
+    margin: 0px 0px 0px 0px;
     color: black;
-    /*text-transform: uppercase;*/
     font-family: 'VT323', sans-serif;
 }
 header{
     height:525px;
     background-color: Blue;
-    /*background-image: -webkit-gradient(
-        linear,
-        left top,
-        left bottom,
-        color-stop(0, #000000),
-        color-stop(1, #FFFFFF)
-        );
-    background-image: -o-linear-gradient(bottom, #000000 0%, #FFFFFF 100%);
-    background-image: -moz-linear-gradient(bottom, #000000 0%, #FFFFFF 100%);
-    background-image: -webkit-linear-gradient(bottom, #000000 0%, #FFFFFF 100%);
-    background-image: -ms-linear-gradient(bottom, #000000 0%, #FFFFFF 100%);
-    background-image: linear-gradient(to bottom, #000000 0%, #FFFFFF 100%);
-    */
 }
 header, section, footer, aside, nav, article, div, figure
 { 
@@ -87,7 +70,6 @@ li:focus span {
 
 li:hover span::before,
 li:focus span::before {
-    /*background: #1abe9e;*/
 background: #ff1500;
 }
 .commentor{
@@ -108,7 +90,6 @@ footer{
     clear:both;
 }
 nav{
-    /*change this color later on*/
     background-color:red;
     height:35px;
 }
