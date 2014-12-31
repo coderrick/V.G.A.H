@@ -19,7 +19,6 @@ header, section, footer, aside, nav, article, div, figure
     width: 500px;
     padding: 0;
 }
-
 .hb-children {
     position: relative;
     display: inline-block;
@@ -61,7 +60,6 @@ li span::before {
     transform-origin: 50% 0;
     -webkit-transform-origin: 50% 0;
 }
-
 li:hover span,li:focus span {
     transform: rotateX(360deg) translateY(-44px);
     -webkit-transform: rotateX(360deg) translateY(-44px);
