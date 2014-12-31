@@ -62,12 +62,10 @@ li span::before {
     -webkit-transform-origin: 50% 0;
 }
 
-li:hover span,
-li:focus span {
+li:hover span,li:focus span {
     transform: rotateX(360deg) translateY(-44px);
     -webkit-transform: rotateX(360deg) translateY(-44px);
 }
-
 li:hover span::before,
 li:focus span::before {
 background: #ff1500;
