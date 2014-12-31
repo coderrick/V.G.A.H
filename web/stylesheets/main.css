@@ -31,7 +31,6 @@ header, section, footer, aside, nav, article, div, figure
     padding: 0;
     perspective: 1000px;  
 }
-
 li span {
     position: relative;
     display: inline-block;
@@ -44,7 +43,6 @@ li span {
     transform-style: preserve-3d;
     -webkit-transform-style: preserve-3d;
 }
-
 li span::before {
     position: absolute;
     top: 100%;
