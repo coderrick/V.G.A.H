@@ -4,14 +4,17 @@ body {
     color: black;
     font-family: 'VT323', sans-serif;
 }
+
 header{
     height:525px;
     background-color: Blue;
 }
+
 header, section, footer, aside, nav, article, div, figure
 { 
     display: block;
 }
+
 #headerblocks-ul {
     list-style: none;
     display: block;
