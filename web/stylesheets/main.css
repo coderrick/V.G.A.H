@@ -64,28 +64,35 @@ li span::before {
     transform-origin: 50% 0;
     -webkit-transform-origin: 50% 0;
 }
+
 li:hover span,li:focus span {
     transform: rotateX(360deg) translateY(-44px);
     -webkit-transform: rotateX(360deg) translateY(-44px);
 }
+
 li:hover span::before,
 li:focus span::before {
 background: #ff1500;
 }
+
 .commentor{
    
 }
+
 blockquote{
    font-family: 'Gruppo', sans-serif; 
    font-size: 14px; 
    font-weight: bold;
 }
+
 section, article{
     float:left;
 }
+
 aside{
     float:right;
 }
+
 footer{
     clear:both;
 }
