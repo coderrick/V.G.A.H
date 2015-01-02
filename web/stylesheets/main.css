@@ -96,10 +96,12 @@ aside{
 footer{
     clear:both;
 }
+
 nav{
     background-color:red;
     height:35px;
 }
+
 nav a{
     height:35px;
     padding-left:10%;
@@ -107,9 +109,11 @@ nav a{
     padding-bottom: 19px;  
     border:2px solid black;
 }
+
 nav a:first-child{
  margin-left: 50px;   
 }
+
 #xbox{
     border:1px solid black;
 }
